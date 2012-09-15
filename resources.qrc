@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="DroidSans.ttf">Resources/Font/DroidSans.ttf</file>
+    </qresource>
+</RCC>
